@@ -1,0 +1,15 @@
+be\moondevelopment\moonboard\scoreboard\Adapter.class
+be\moondevelopment\moonboard\scoreboard\AssembleUtils.class
+be\moondevelopment\moonboard\scoreboard\Assemble.class
+be\moondevelopment\moonboard\scoreboard\AssembleStyle.class
+be\moondevelopment\moonboard\scoreboard\AssembleException.class
+be\moondevelopment\moonboard\commands\MoonCMD.class
+be\moondevelopment\moonboard\MoonBoard.class
+be\moondevelopment\moonboard\scoreboard\events\AssembleBoardCreateEvent.class
+be\moondevelopment\moonboard\scoreboard\AssembleBoardEntry.class
+be\moondevelopment\moonboard\scoreboard\events\AssembleBoardDestroyEvent.class
+be\moondevelopment\moonboard\scoreboard\AssembleThread.class
+be\moondevelopment\moonboard\scoreboard\AssembleListener.class
+be\moondevelopment\moonboard\scoreboard\AssembleAdapter.class
+be\moondevelopment\moonboard\scoreboard\AssembleBoard.class
+be\moondevelopment\moonboard\scoreboard\events\AssembleBoardCreatedEvent.class

@@ -1,0 +1,17 @@
+name: MoonBoard
+version: 1.0
+description: A Simple Scoreboard plugin that uses PlaceHolderAPI
+author: MoonDevelopment
+main: be.moondevelopment.moonboard.MoonBoard
+api-version: 1.13
+depend:
+  - PlaceholderAPI
+commands:
+  moonboard:
+    description: Plugin Command
+    usage: /<command>
+    aliases: [mb]
+
+permissions:
+    moonboard.reload:
+        description: Allows the player to reload the plugin
